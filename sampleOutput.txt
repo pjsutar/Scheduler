@@ -1,0 +1,44 @@
+Building 7 can not be scheduled for work on 0.
+Schedule for 0 :
+(Building Number : Worker IDs)
+1 :  1
+2 :  2 11
+3 :  3 4 6 7 12 13 14 15
+4 :  5 21
+5 :  12
+6 :  14 22
+
+Building 14 can not be scheduled for work on 1.
+Schedule for 1 :
+(Building Number : Worker IDs)
+8 :  1 11
+9 :  2
+10 :  3 4 6 7 12 13 14 15
+11 :  5 21
+12 :  12
+13 :  14 22
+
+Building 21 can not be scheduled for work on 2.
+Schedule for 2 :
+(Building Number : Worker IDs)
+15 :  1 11
+16 :  2
+17 :  3 4 6 7 12 13 14 15
+18 :  5 21
+19 :  12 14 8 9 22 23 24 25
+20 :  15
+
+Building 14 can not be scheduled for work on 3.
+Schedule for 3 :
+(Building Number : Worker IDs)
+7 :  12 14 8 9 23 24 25 26
+22 :  1 11
+23 :  2 3 6 7 12 13 14 15
+24 :  4 21
+25 :  5 22
+
+Schedule for 4 :
+(Building Number : Worker IDs)
+14 :  3 4 8 9 15 21 22 23
+21 :  1 2 6 7 11 12 13 14
+
